@@ -1,0 +1,1 @@
+export const sampleText = '# Welcome!\n## Don\'t hesitate to try this react app \n### Feel free to type anything here  \n\n Your text will be saved in the browser using LocalStorage.\n\n Basics: *html*, **css**, \n`javascript`.\n\nMy favorite stack:\n\n  * PHP\n  * Symfony\n  * React\n\nCurrently studying:\n\n  1. Redux\n  2. PHPUnit\n  3. React Native\n\n'
